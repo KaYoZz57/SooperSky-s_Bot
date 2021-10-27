@@ -1,0 +1,22 @@
+{
+  "name": "soopersky-s_bot",
+  "version": "0.0.1",
+  "description": "The simple bot for SooperSky",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaYoZz57/SooperSky-s_Bot.git"
+  },
+  "author": "KaYoZz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KaYoZz57/SooperSky-s_Bot/issues"
+  },
+  "homepage": "https://github.com/KaYoZz57/SooperSky-s_Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
